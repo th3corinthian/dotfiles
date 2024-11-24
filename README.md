@@ -1,5 +1,5 @@
 # dotfiles
-My personal dotfiles.
+my personal dotfiles
 
 Credits go to 
 
