@@ -1,6 +1,4 @@
 # dotfiles
-my personal dotfiles
-
 Credits go to 
 
 - https://github.com/rougier/emacs-gtd
