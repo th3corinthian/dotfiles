@@ -1,0 +1,2 @@
+window:
+  opactiy: 0.9  # set transparency level (1.0 opaque, 0.0 fully transparent)
